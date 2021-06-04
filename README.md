@@ -93,3 +93,9 @@ For this problem, a planar double pendulum consisting of masses, m<sub>2</sub> a
 <img src="/Images/setup/cart-pendulum.png" width="450">
 
 ### Results
+
+#### Drag Coeficient = 0
+
+#### Drag Coeficient = 0.05
+
+#### Drag Coeficient = 0.5
