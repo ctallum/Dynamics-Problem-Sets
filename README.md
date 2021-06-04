@@ -90,4 +90,6 @@ For this problem, a planar double pendulum consists of masses, m<sub>1</sub> and
 ### Double Pendulum on a Cart
 For this problem, a planar double pendulum consisting of masses, m<sub>2</sub> and m<sub>3</sub>, are suspended by massless rods of length l<sub>1</sub> and l<sub>2</sub> with a frictionless pivot upon a frictionless lateral cart with mass, m<sub>1</sub>. The position of the cart can be described by the distance x with respect to the origin, and the positions of the pendulums can be described by the angles, θ<sub>1</sub> and θ<sub>2</sub>, with respect to vertical. Gravity acts in the downward vertical directions. Furthermore, the cart and pendulum masses are subject to a drag force F<sub>D</sub>=C<sub>D</sub>V<sup>2</sup> where C<sub>D</sub> is the drag coefficient and the force is acting in the oposite direction of velocity. 
 
+![Cart Double Pendulum Setup](/Images/setup/cart-pendulum.png)
+
 ### Results
