@@ -23,7 +23,8 @@ and following drag properties
 - Air density: 1.29 kg/m<sup>3</sup>
 - Drag coefficient: 0.25
 
-![golf simulation graph]("/Images/results/golf-results.png)
+![golf simulation graph](/Images/results/golf-results.png)
+
 
 ### 2. Two Mass Hopper Simulation
 
