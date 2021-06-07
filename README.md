@@ -59,6 +59,7 @@ For this problem, a small marble is released at the rim of a hemispherical bowl 
 
 #### Results
 
+![Marble Simulation Results](/Images/results/Marble-results.png)
 
 ### 2. Rollercoaster Simulation
 
