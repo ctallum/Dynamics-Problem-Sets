@@ -107,9 +107,9 @@ and initial position and velocity
 - Initial spring length: 20 cm
 - Initial theta: 0 rad
 - Initial phi: π/2 rad
-- Initial velocity in radial direction: 0.1 m/s
-- Initial velocity in theta direction: 0 m/s
-- Initial velocity in phi direction: 0 m/s
+- Initial velocity in radial direction: 0.1 rad/s
+- Initial velocity in theta direction: 0 rad/s
+- Initial velocity in phi direction: 0 rad/s
 
 |![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results1.png)|![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results2.png)|
 |:-:|:-:|
@@ -118,9 +118,9 @@ and with the following different initial position and velocity
 - Initial spring length: 30 cm
 - Initial theta: 0 rad
 - Initial phi: π/2 rad
-- Initial velocity in radial direction: 1 m/s
-- Initial velocity in theta direction: 1 m/s
-- Initial velocity in phi direction: 0 m/s
+- Initial velocity in radial direction: 1 rad/s
+- Initial velocity in theta direction: 1 rad/s
+- Initial velocity in phi direction: 0 rad/s
 
 
 |![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results3.png)|![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results4.png)|
@@ -135,6 +135,25 @@ For this problem, a plan pendulum which consists of mass, m, is suspended by a m
 
 #### Results
 
+For a planar pendulum with the following characteristics and initial conditions
+- Mass: 0.1 kg
+- Length: 20 cm
+- Initial theta: π/2
+- Initial velocity in theta direction: 0 rad/s
+
+|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results1.png)|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results1.png)|
+|:-:|:-:|
+
+These two simulations were calculated using different coordinate systems. The cartesian pendulum was calculated with equations of motion that were defined using a cartesion coordinate system, while the polar pendulum was calculated with equaitons of motion that were defined using a polar coordinate system. As expected, the two are identical. Both coordinate systems describe a pendulum accurately.
+
+|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results3.png)|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results4.png)|
+|:-:|:-:|
+
+Adding viscious drag and aerodynamic drag to the pendulum result in the following. Viscous drag is proportional to the angular velocity of the pendulum while aerodynamic drag is proportional to the square of the angular velocity.
+
+|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results5.png)|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results6.png)|
+|:-:|:-:|
+
 ---
 
 ## Problem Set 4
@@ -148,7 +167,16 @@ For this problem, a planar double pendulum consists of masses, m<sub>1</sub> and
 
 #### Results
 
----
+For a double pendulum with the following characteristics and initial conditions
+- Mass 1: 1.0 kg
+- Length 1: 0.5 m
+- Theta 1: π/2
+- Mass 2: 1.0 kg
+- Length 2: 0.5 m
+- Theta 2: π/4
+
+|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results1.png)|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results2.gif)|
+|:-:|:-:|
 
 ## Final Project
 
