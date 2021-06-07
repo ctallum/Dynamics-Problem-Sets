@@ -36,10 +36,10 @@ For this problem, two masses, m<sub>upper</sub> and m<sub>lower</sub>, are conne
 #### Results
 
 For a two mass hopper with the following characteristics and inital conditions
-- Upper Mass: 1.0 g
-- Lower Mass: 0.5 g
-- Spring Length: 2.0 cm
-- Spring Constant: 40 N/m
+- Upper mass: 1.0 g
+- Lower mass: 0.5 g
+- Spring length: 2.0 cm
+- Spring constant: 40 N/m
 - Initial spring compression: 1.0 cm
 
 ![Hopper Simulation Results](/Images/results/Hopper-results1.png)
@@ -70,6 +70,18 @@ The cart has air resistance. The magnitude of the force is F<sub>D</sub>=1/2ρC<
 ![Rollercoaster Problem Setup](/Images/setup/rollercoaster.png)
 
 #### Results
+
+For a rollercoaster with the following characteristics and initial conditions:
+- Initial height of ride: 100 m
+- Horizontal length of the ride: 500 m
+- Mass of car: 500 kg
+- Frontal area of car: 4.0 m<sup>2</sup>
+- Drag coefficient: 0.1
+- Air density: 1.02 kg/m<sup>3</sup>
+
+![Rollercoaster simulation results](/Images/results/Rollercoaster-results1.png)
+
+B = 0.361 is the lower bound for how tall the second peak can be. For any value B lower than 0.361 results in a second peak that is too tall for the rollercoaster cart to go over.
 
 ---
 
