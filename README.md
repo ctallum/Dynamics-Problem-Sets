@@ -98,6 +98,34 @@ For this problem, a mass, m, is suspended on a massless linear spring to form a 
 
 #### Results
 
+For a spring pendulum with the following characteristics
+- Mass: 0.1 kg
+- Spring length: 20 cm
+- Spring constant: 20 N/m
+
+and initial position and velocity
+- Initial spring length: 20 cm
+- Initial theta: 0 rad
+- Initial phi: π/2 rad
+- Initial velocity in radial direction: 0.1 m/s
+- Initial velocity in theta direction: 0 m/s
+- Initial velocity in phi direction: 0 m/s
+
+|![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results1.png)|![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results2.png)|
+|:-:|:-:|
+
+and with the following different initial position and velocity
+- Initial spring length: 30 cm
+- Initial theta: 0 rad
+- Initial phi: π/2 rad
+- Initial velocity in radial direction: 1 m/s
+- Initial velocity in theta direction: 1 m/s
+- Initial velocity in phi direction: 0 m/s
+
+
+|![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results3.png)|![Spring Pendulum Simulation Results](/Images/results/Spring-pendulum-results4.png)|
+|:-:|:-:|
+
 ### 2. Planar Pendulum
 
 #### Setup
