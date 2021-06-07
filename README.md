@@ -1,4 +1,4 @@
-# Dynamics-Problem-Sets
+# Dynamics-Simulations
 This is a collection of problem sets and my simulated results from my Olin 2021 Dynamics Class.
 
 ---
