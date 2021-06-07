@@ -23,7 +23,7 @@ and following drag properties
 - Air density: 1.29 kg/m<sup>3</sup>
 - Drag coefficient: 0.25
 
-![golf simulation graph](/Images/results/golf-results.png)
+![Golf Simulation Results](/Images/results/Golf-results.png)
 
 
 ### 2. Two Mass Hopper Simulation
@@ -34,6 +34,15 @@ For this problem, two masses, m<sub>upper</sub> and m<sub>lower</sub>, are conne
 ![Hopper Problem Setup](/Images/setup/hopper.png)
 
 #### Results
+
+For a two mass hopper with the following characteristics and inital conditions
+- Upper Mass: 1.0 g
+- Lower Mass: 0.5 g
+- Spring Length: 2.0 cm
+- Spring Constant: 40 N/m
+- Initial spring compression: 1.0 cm
+
+![Hopper Simulation Results]("/Images/results/Hopper-results1.png)
 
 ---
 
