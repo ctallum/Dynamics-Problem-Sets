@@ -175,7 +175,10 @@ For a double pendulum with the following characteristics and initial conditions
 - Length 2: 0.5 m
 - Theta 2: π/4
 
-|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results1.png)|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results2.gif)|
+|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results1.png)|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results2.png)|
+|:-:|:-:|
+
+|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results3.png)|![Double Pendulum Simulation Results](/Images/results/Double-pendulum-results4.png)|
 |:-:|:-:|
 
 ## Final Project
