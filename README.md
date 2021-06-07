@@ -14,6 +14,16 @@ For this problem, a golf ball, with diameter D and mass m, is launched from poin
 
 
 #### Results
+For a golf ball with the following characteristics and initial conditions
+- Mass: 0.0459 kg
+- Diameter: 4.27 cm
+- Initial velocity: 130 mph at 45 degrees with respect to ground
+
+and following drag properties
+- Air density: 1.29 kg/m<sup>3</sup>
+- Drag coefficient: 0.25
+
+![golf simulation graph]("/Images/results/golf-results.png)
 
 ### 2. Two Mass Hopper Simulation
 
