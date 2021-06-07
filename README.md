@@ -83,6 +83,10 @@ For a rollercoaster with the following characteristics and initial conditions:
 
 B = 0.361 is the lower bound for how tall the second peak can be. For any value B lower than 0.361 results in a second peak that is too tall for the rollercoaster cart to go over.
 
+![Rollercoaster simulation results](/Images/results/Rollercoaster-results2.png)
+
+![Rollercoaster simulation results](/Images/results/Rollercoaster-results3.png)
+
 ---
 
 ## Problem Set 3
