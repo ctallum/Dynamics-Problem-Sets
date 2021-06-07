@@ -191,10 +191,15 @@ For this problem, a planar double pendulum consisting of masses, m<sub>2</sub> a
 ### Results
 
 #### Drag Coeficient = 0
-|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results1.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results2.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results3.png)|
+|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results1.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results2.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results3.gif)|
 |:-:|:-:|:-:|
-
 
 #### Drag Coeficient = 0.05
 
+|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results4.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results5.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results6.gif)|
+|:-:|:-:|:-:|
+
 #### Drag Coeficient = 0.5
+
+|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results7.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results8.png)|![Cart Pendulum Simulation Results](/Images/results/Cart-pendulum-results9.gif)|
+|:-:|:-:|:-:|
