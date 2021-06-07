@@ -42,7 +42,9 @@ For a two mass hopper with the following characteristics and inital conditions
 - Spring Constant: 40 N/m
 - Initial spring compression: 1.0 cm
 
-![Hopper Simulation Results]("/Images/results/Hopper-results1.png)
+![Hopper Simulation Results](/Images/results/Hopper-results1.png)
+
+![Hopper Simulation Results](/Images/results/Hopper-results2.png)
 
 ---
 
