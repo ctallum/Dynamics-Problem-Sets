@@ -141,7 +141,7 @@ For a planar pendulum with the following characteristics and initial conditions
 - Initial theta: π/2
 - Initial velocity in theta direction: 0 rad/s
 
-|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results1.png)|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results1.png)|
+|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results1.png)|![Planar Pendulum Simulation Results](/Images/results/Planar-pendulum-results2.png)|
 |:-:|:-:|
 
 These two simulations were calculated using different coordinate systems. The cartesian pendulum was calculated with equations of motion that were defined using a cartesion coordinate system, while the polar pendulum was calculated with equaitons of motion that were defined using a polar coordinate system. As expected, the two are identical. Both coordinate systems describe a pendulum accurately.
